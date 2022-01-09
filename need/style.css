@@ -1,0 +1,90 @@
+.active{
+    color: #171817;
+   }
+
+h1, p, h2 {
+
+  font-family: 'Jura', sans-serif;
+}
+
+h1, nav {
+
+  text-align: center;
+}
+
+.nav li {
+
+  display: inline;
+}
+
+footer {
+  border-top: 1px solid #aaaaaa;
+  background-color: #d7e2d7;
+}
+footer a {
+
+  text-decoration: none;
+  font-family: 'Jura', sans-serif;
+  color: #1f201f;
+  
+}
+
+
+.footer li {
+
+  display: inline-block;
+}
+.footer{
+  text-align: center;
+}
+
+.footer li:nth-child(2){
+  margin-left: 50px;
+  margin-right: 40px;
+}
+.nav a {
+
+  text-decoration: none;
+  font-family: 'Jura', sans-serif;
+  color: #1f201f;
+  display: inline-block;
+  background-color: #d7e2d7;
+  padding: 10px 20px;
+  border-bottom: 5px solid rgb(26, 25, 25);
+}
+
+.nav a:hover{
+background-color: #989b98;
+
+}
+   .info {
+     text-align: center;
+     font-family: 'Jura', sans-serif;
+   }
+
+   .history{
+    text-align: center;
+    font-family: 'Jura', sans-serif;
+   }
+
+  
+
+  .food {
+    margin-left: 5%;
+  }
+
+.row  {
+  text-align: center;
+}
+
+
+.gallery img {
+
+  width: 500px;
+}
+
+.places img {
+
+  width: 500px;
+}
+   
